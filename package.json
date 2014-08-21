@@ -1,0 +1,31 @@
+{
+  "name": "angular-google-books",
+  "version": "0.0.0",
+  "description": "Angular module to provide google books API",
+  "main": "build/angular-google-books",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/savcha/angular-google-books"
+  },
+  "keywords": [
+    "angular",
+    "google",
+    "books",
+    "api"
+  ],
+  "author": "Anton Savchenko",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "karma": "0.12.17",
+    "karma-chrome-launcher": "~0.1.4",
+    "karma-jasmine": "^0.2.2",
+    "grunt-karma": "~0.8.3",
+    "load-grunt-config": "~0.13.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "jshint-stylish": "~0.4.0"
+  }
+}
